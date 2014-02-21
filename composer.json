@@ -1,0 +1,24 @@
+{
+    "name": "ftec-faculdades/dti-amigoindicaamigo",
+    "description": "Responsável pelo gerenciamento do módulo Amigo Indica Amigo",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "module",
+        "zf2",
+        "dti",
+		"amigo"
+    ],
+    "homepage": "https://github.com/ftec-faculdades/DTIAmigoIndicaAmigo",
+    "authors": [
+        {
+            "name": "Sérgio Ernane Munhós Hermes",
+            "email": "sergiohermes@ftec.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "DTIAmigoIndicaAmigo": "src/"
+        }
+    }
+}
